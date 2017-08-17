@@ -1,0 +1,3 @@
+[submodule "HelloVapor"]
+	path = HelloVapor
+	url = ../vaporplayground.git
